@@ -1,0 +1,17 @@
+{
+  "name": "ashutosh.in",
+  "version": "1.0.0",
+  "description": "My Official Portfolio",
+  "main": "script.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashutosh Kumar Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "imagemin": "^9.0.0",
+    "imagemin-jpeg-recompress": "^7.1.0"
+  }
+}
